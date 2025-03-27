@@ -6,7 +6,7 @@ class URI
     static void Main(string[] args)
     {
 
-        int value = int.Parse(Console.ReadLine()); // 576;
+        int value = int.Parse(Console.ReadLine());
         int originalValue = value;
 
         var div100Counter = 0;
